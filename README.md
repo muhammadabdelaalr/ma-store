@@ -1,4 +1,4 @@
 # ma-store
 
-project link 
+Demo 
 https://engmohamedabdo.github.io/ma-store/
